@@ -19,7 +19,7 @@ jobs:
       - name: Gerar animação da cobrinha 🐍
         uses: Platane/snk@v3
         with:
-          github_user_name: b3cker255
+          github_user_name: guilhermefbecker
           outputs: dist/snake.svg
 
       - name: Publicar no branch output
