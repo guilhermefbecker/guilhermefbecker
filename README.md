@@ -5,7 +5,7 @@
 📧 guilhermebecker255@gmail.com  
 📱 (47) 9 9931-2276  
 
-🌐 [![GitHub](https://img.shields.io/badge/GitHub-b3cker255-181717?style=for-the-badge&logo=github)](https://github.com/b3cker255) 
+🌐 [![GitHub](https://img.shields.io/badge/GitHub-b3cker255-181717?style=for-the-badge&logo=github)](https://github.com/guilhermefbecker) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme--becker-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guilherme--becker)
 
 ---
