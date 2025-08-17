@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Guilherme Felipe Becker  
 
-<!--
-**guilhermefbecker/guilhermefbecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Estudante de Sistemas de Informação**  
+📍 Brusque - Santa Catarina  
+📧 guilhermebecker255@gmail.com  
+📱 (47) 9 9931-2276  
 
-Here are some ideas to get you started:
+🌐 [![GitHub](https://img.shields.io/badge/GitHub-b3cker255-181717?style=for-the-badge&logo=github)](https://github.com/guilhermefbecker) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme--becker-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guilherme--becker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mim  
+```javascript
+const guilherme = {
+   nome: "Guilherme Felipe Becker",
+   area: "Sistemas de Informação",
+   foco: ["Desenvolvimento", "Análise de Sistemas", "Dados"],
+   paixão: "Aprender coisas novas e resolver problemas 🚀"
+}
