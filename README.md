@@ -10,11 +10,31 @@
 
 ---
 
-## 👨‍💻 Sobre mim  
-```javascript
-const guilherme = {
-   nome: "Guilherme Felipe Becker",
-   area: "Sistemas de Informação",
-   foco: ["Desenvolvimento", "Análise de Sistemas", "Dados"],
-   paixão: "Aprender coisas novas e resolver problemas 🚀"
-}
+👨‍💻 Sobre mim
+
+Sou estudante de Sistemas de Informação e apaixonado por tecnologia. 🚀
+Tenho experiência com manutenção, vendas e informática, além de conhecimentos em desenvolvimento e dados.
+Curto aprender coisas novas, resolver problemas e estou sempre em busca de oportunidades para crescer na área de TI, especialmente como desenvolvedor ou analista.
+
+🛠️ Experiência
+
+💼 InfoHard Informática (2021 - 2025)
+Aprendi tanto a parte de vendas quanto manutenção em hardware e software.
+Foi a base que despertou meu interesse pela área de tecnologia.
+
+🎓 Educação
+
+📚 Bacharelado em Sistemas de Informação – UNIFEBE (em andamento)
+🏫 Ensino Médio – Conecte / SESI SENAI
+🏫 Ensino Fundamental – Colégio Cônsul Carlos Renaux
+📜 Cursos e Certificações
+👨‍💻 Técnico em Informática/Desenvolvimento junto ao Ensino Médio
+🚀 Curso de Empreendedorismo – SESI SENAI (2018/2019)
+🖨️ Curso Impressora 3D – SESI SENAI (2018)
+👥 Curso Gestão de Pessoas – SENAI (1 ano)
+💼 Pacote Office
+🎨 Motion Design (After Effects)
+
+🚀 Objetivo
+
+Atuar na área de Tecnologia da Informação, aplicando meus conhecimentos em desenvolvimento, análise de sistemas e dados, sempre buscando evolução contínua.
